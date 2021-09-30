@@ -1,0 +1,19 @@
+config_tf:
+  camera:
+    transform:
+      rotation:
+        w: 0
+        x: 0.707106781
+        y: -0.707106781
+        z: 0
+      translation:
+        x: 0
+        y: 0
+        z: 0
+gridboard:
+  n_circles_x: 11
+  n_circles_y: 16
+  n_minimum: 9
+  origin_x: 5
+  origin_y: 8
+  unitleng: 12

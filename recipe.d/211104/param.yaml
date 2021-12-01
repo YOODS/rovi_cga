@@ -8,7 +8,7 @@ cropper:
   mesh: 0.5
   nfmin: 20
   nfrad: 5
-  wd: 350
+  wd: 365
 picker:
   azimuth:
     max: 20
@@ -34,7 +34,7 @@ rovi:
       bw_diff: 8
       darkness: 5
   ycam:
-    ExposureTimeLevel: 2
+    ExposureTimeLevel: 5
     camera:
       Gain: 0
     hdr:
@@ -43,7 +43,7 @@ rovi:
       projector:
         Intensity: 0.2
     projector:
-      Intensity: 200
+      Intensity: 50
 searcher:
   distance_threshold: 10
   feature_mesh: 4

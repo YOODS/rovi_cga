@@ -1,4 +1,6 @@
 "class":"Title", "label":"1.カメラ調整"
+"class":"Number", "name":"/rovi/ycam/ExposureTimeLevel","label":"露光レベル[1〜6]"
+"class":"Number", "name":"/rovi/ycam/camera/Gain","label":"デジタルゲイン[0〜100]"
 "class":"Number", "name":"/rovi/ycam/projector/Intensity","label":"プロジェクタ発光強度[0〜255]"
 "class":"Title",  "label":"2.取り込み"
 "class":"Echo",   "label":"キャリブ板 位置 X\nY\nZ\n姿勢 X\nY\nZ\nW","name":"/gridboard/tf","format":".3f"

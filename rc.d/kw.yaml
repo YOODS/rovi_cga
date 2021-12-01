@@ -7,7 +7,7 @@ config:
     launch_rsock:
       file: kw.launch
   rsocket:
-    port: 8888
+    port: 8000
     update_frame_id: tool0_controller
 
 config_tf:

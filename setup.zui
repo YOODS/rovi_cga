@@ -9,7 +9,7 @@
 "class":"Pub",    "name":"/request/clear","label":"クリア"
 "class":"Title",  "label":"2.マスター作成"
 "class":"Number", "name":"/cropper/wd","label":"カメラ - ワーク 距離[mm]"
-"class":"Number", "name":"/cropper/ladW","label":"すくいワールド"
+"class":"Number", "name":"/cropper/ladC","label":"すくいカメラ"
 "class":"Pub",    "name":"/request/model_save","label":"マスター登録","confirm":"登録しますか？"
 "class":"Popup",  "name":"/response/model_save","label":"マスター登録"
 "class":"Echo",   "name":"/searcher0/pvar","label":"マスター適合度","format":".1f"
